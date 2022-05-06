@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Charts (3.5.0):
+    - Charts/Core (= 3.5.0)
+  - Charts/Core (3.5.0)
+  - KeychainSwift (8.0.3)
+  - Reachability (3.2)
+  - Starscream (4.0.4)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - Charts
+  - KeychainSwift (~> 8.0)
+  - Reachability
+  - Starscream (~> 4.0.0)
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Charts
+    - KeychainSwift
+    - Reachability
+    - Starscream
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Charts: 40a08591df1f8ad5c223ddedfb1a06da92f24f7c
+  KeychainSwift: be9554c0e5f4b1686c775930dc5c6bd9396992ed
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  Starscream: 5178aed56b316f13fa3bc55694e583d35dd414d9
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: afd8a2063016634649b97e580afc8fad9a8acf66
+
+COCOAPODS: 1.9.3
